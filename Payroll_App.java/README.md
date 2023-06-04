@@ -1,32 +1,28 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This payroll account manager program enables the employer to keep track of their employees and their hours.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
+I wrote this program so that I could learn how to use the Java programming language.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YOhmWBWzsl0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To create this program, I used the Oracle Java JDK and Visual Studio Code with the proper extensions.
 
-{Describe the programming language that you used and any libraries.}
+Java is a object-oriented language, making it ideal for a program as such. Each employee can be added as an object and modified according
+to the employers needs.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Informational websites that have helpful tools when learning Java.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [JavaPoint.com](https://www.javatpoint.com/java-tutorial)
+- [Programiz.com](https://www.programiz.com/java-programming)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+Here are some things that I want to work on:
+- Make a user interface for my program
+- Add more classes to my application
+- Review my code with a peer
